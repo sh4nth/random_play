@@ -4,10 +4,10 @@
 print "HAHA"                                    # Python ONLY
 mydict={}                                            # Python ONLY
 """ */                                           
-                    main() {                    // C only
-                     char c, i;                 // C only And STRING BEGINS
-                     char* Z=MULTILINE( /* 
-                                                Neither
+main() {                    // C only
+char c, i;                 // C only And STRING BEGINS
+char* Z=MULTILINE( /* 
+                     ~~~~~                      Neither
 """    #*/           
 #//                                             #<Both>
 mydict["Hello"] = "World";              
