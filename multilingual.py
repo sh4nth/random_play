@@ -5,7 +5,6 @@
 # define print(a) printf("%s",a) /*             
 print "HAHA"                                    # Python ONLY
 mydict={}                                            # Python ONLY
-mydict["Hello"]='World'                              # Python ONLY
 """ */                                           
                     main() {                    // C only
                      char c, i;                 // C only And STRING BEGINS
@@ -32,7 +31,7 @@ print(Z);
 print "PYTHON ONLY"                             # Python ONLY
 """ */                  
                     };                         // C only
-#define C2 /*            
+#/*            
 """    #*/           
 
 
