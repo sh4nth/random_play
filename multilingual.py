@@ -9,8 +9,7 @@ mydict["Hello"]='World'                              # Python ONLY
 """ */                                           
                     main() {                    // C only
                      char c, i;                 // C only And STRING BEGINS
-                     char* Z=MULTILINE(
-#/* 
+                     char* Z=MULTILINE( /* 
                                                 Neither
 """    #*/           
 #//                                             #<Both>
