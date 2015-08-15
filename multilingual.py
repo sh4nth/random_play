@@ -1,6 +1,4 @@
 
-#//                    C ONLY              PYTHON ONLY              BOTH
-
 # define MULTILINE(a) #a
 # define print(a) printf("%s",a) /*             
 print "HAHA"                                    # Python ONLY
@@ -27,11 +25,9 @@ print(Z);
 #//                                             #</Both>
 
 
-# define O2 /*             
-print "PYTHON ONLY"                             # Python ONLY
-""" */                  
-                    };                         // C only
-#/*            
-"""    #*/           
-
+#/*             
+"""*/                  
+};
+#/*
+"""#*/           
 
